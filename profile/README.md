@@ -1,10 +1,5 @@
 <p align="center">
-  <a href="https://fgcompass.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://fgcompass.com/images/brand/fg-compass-horizontal-dark.svg">
-      <img src="https://fgcompass.com/images/brand/fg-compass-horizontal-light.svg" alt="FG-COMPASS" width="420">
-    </picture>
-  </a>
+  <a href="https://fgcompass.com"><img src="fgcompass-badge.svg" alt="FG-COMPASS" width="200"></a>
 </p>
 
 <p align="center"><b>A free tool for assessing children's fundamental motor skills.</b></p>
